@@ -2,25 +2,25 @@ html {
     height: 100%;
     width: 100%;
     }
-    #banner
+#banner
     { width: 100%;
     height: 650px;}
-    body{
+body{
     background-color: white;
     }
-    .principal {
+.principal {
     background: rgb(64, 81, 233);
     }
-    h1{
+h1{
     text-align: center; color: red
     }
-    p {
+p {
     text-align: center;
     }
-    strong{
+strong{
     color: indianred;
     }
-    .beneficios{
+.beneficios{
     background: lightpink;
     }
     
